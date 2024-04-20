@@ -1,0 +1,14 @@
+D:\SoftUniada\07\bin\Debug\net6.0\07.exe
+D:\SoftUniada\07\bin\Debug\net6.0\07.deps.json
+D:\SoftUniada\07\bin\Debug\net6.0\07.runtimeconfig.json
+D:\SoftUniada\07\bin\Debug\net6.0\07.dll
+D:\SoftUniada\07\bin\Debug\net6.0\07.pdb
+D:\SoftUniada\07\obj\Debug\net6.0\07.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniada\07\obj\Debug\net6.0\07.AssemblyInfoInputs.cache
+D:\SoftUniada\07\obj\Debug\net6.0\07.AssemblyInfo.cs
+D:\SoftUniada\07\obj\Debug\net6.0\07.csproj.CoreCompileInputs.cache
+D:\SoftUniada\07\obj\Debug\net6.0\07.dll
+D:\SoftUniada\07\obj\Debug\net6.0\refint\07.dll
+D:\SoftUniada\07\obj\Debug\net6.0\07.pdb
+D:\SoftUniada\07\obj\Debug\net6.0\07.genruntimeconfig.cache
+D:\SoftUniada\07\obj\Debug\net6.0\ref\07.dll
